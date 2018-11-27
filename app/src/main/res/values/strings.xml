@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Health Care</string>
+
+    <string-array name="name_health">
+        <item>Blueberry</item>
+        <item>Sayuran hijau</item>
+        <item>Alpukat</item>
+        <item>Kacang-kacangan</item>
+        <item>Bawang putih</item>
+    </string-array>
+
+    <string-array name="detail_health">
+        <item>Michelle Babb, ahli diet dan penulis Anti-Inflammatory Eating for a Happy, Healthy Brain mengatakan, ada setidaknya 15 jenis fitonutrien yang ditemukan dalam blueberry dan semuanya adalah antioksidan kuat yang melindungi hampir setiap sistem dalam tubuh. Antioksidan menjaga kerusakan sel, jaringan, dan otot dan penting untuk kesehatan jantung, kesehatan otak, dan pemulihan olahraga.</item>
+        <item>Sayuran hijau gelap seperti bayam dan kale adalah kategori makanan lain yang tidak dapat disalahkan ahli gizi. "Sayuran hijau berdaun rendah dan padat nutrisi," jelas Shipa Ravella, MD, seorang ahli gastroenterologi dan spesialis nutrisi di Columbia University Medical Center. Beberapa nutrisi kuat yang mengandung hijau daun termasuk "vitamin A, C, dan K, folat, kalium, magnesium, kalsium, besi, lutein, dan serat," kata Dina Garcia, ahli diet, ahli gizi, dan pendiri Vida Nutrition.</item>
+        <item>Ahli diet dari semua latar belakang memasukkan alpukat sebagai salah satu makanan sehat di dunia. Bahkan, dari 17 ahli gizi  lebih dari setengah dari mereka menyebut alpukat sebagai salah satu dari tiga makanan paling sehat di dunia.Daryl Gioffre, DC, seleb ahli gizi mengungkapkan, alpukat benar-benar makanan yang sempurna. Alpukat kaya vitamin K, C, B5, dan B6, serta mineral utama. Bahkan, mereka mengandung lebih banyak potasium daripada pisang tanpa semua gula. Mereka juga tinggi serat, jadi mereka membantu menjaga kesehatan pencernaan</item>
+        <item>Ahli gizi setuju bahwa kacang-kacangan adalah "pembangkit nutrisi". Menurut Vandana Sheth, ahli diet terdaftar, kacang-kacangan adalah sumber protein nabati yang sangat baik, tinggi serat, dan dapat membantu menurunkan kadar kolesterol, manajemen gula darah, serta manajemen berat badan. Kacang-kacangan juga bagus untuk menjaga saluran pencernaan Anda berjalan lancar.</item>
+        <item>Bawang putih adalah makanan lain yang dapat disetujui oleh semua ahli nutrisi. Bawang putih benar-benar salah satu makanan super alami. Ini mengandung Allicin, sebuah fitokimia yang memiliki banyak khasiat obat. Bawang putih sangat bagus untuk melawan virus, bakteri jahat, dan jamur. Bahkan, telah terbukti dapat mengurangi flu berkepanjangan.</item>
+    </string-array>
+</resources>
